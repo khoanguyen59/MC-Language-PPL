@@ -1,0 +1,11 @@
+int a; 
+        void main() {
+        a = 3; 
+        int b; 
+        b = 2; 
+        if (a<b) {
+            if (a == 3) 
+                putInt(a);
+        } 
+        else 
+            putInt(b);}

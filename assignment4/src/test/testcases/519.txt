@@ -1,0 +1,4 @@
+void main() {
+        putInt(12 / 4); 
+        return;
+        }

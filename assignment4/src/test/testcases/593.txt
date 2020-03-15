@@ -1,0 +1,9 @@
+
+        void main(){
+            putLn();
+            putString("igga");
+            putLn();
+            putString("ever");
+            putLn();
+            putString("aked");
+        }

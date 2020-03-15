@@ -1,0 +1,4 @@
+void main() {
+        putInt(137 % 0); 
+        return;
+        }

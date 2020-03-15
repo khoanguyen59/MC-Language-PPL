@@ -1,0 +1,7 @@
+void foo ( float a[]){}
+        void main () {
+        float y [10] ;
+        int z [10] ;
+        foo (y) ; //CORRECT
+        foo (z) ; //WRONG
+        }

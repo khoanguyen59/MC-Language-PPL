@@ -1,0 +1,6 @@
+
+        void main() {
+        int a;
+        a = 3 * --9 + 224 / 4 + 17 % 16;
+        putInt(a);
+        }

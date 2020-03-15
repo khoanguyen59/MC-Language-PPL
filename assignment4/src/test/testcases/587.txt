@@ -1,0 +1,11 @@
+
+        void main() {
+        int a;
+        a = 3;
+        if (a < 0){
+            return;
+        }
+        return;
+        putInt(a);
+        }
+        

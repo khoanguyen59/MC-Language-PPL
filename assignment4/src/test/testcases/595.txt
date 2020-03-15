@@ -1,0 +1,7 @@
+
+        void main () {
+            for(1; 1 > 0; 3)
+                continue;
+                putInt(1977);
+                break;
+        }

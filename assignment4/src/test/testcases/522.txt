@@ -1,0 +1,4 @@
+void main() {
+        putFloat(9.6 / 6.9); 
+        return;
+        }

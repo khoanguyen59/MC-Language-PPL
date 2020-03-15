@@ -1,0 +1,1 @@
+int a; void main() {int b; b = 2; putInt(b);}

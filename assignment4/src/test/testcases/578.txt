@@ -1,0 +1,6 @@
+
+        void main() {
+        int a[100];
+        a[96] = 79;
+        putInt(a[24*4]);
+        }

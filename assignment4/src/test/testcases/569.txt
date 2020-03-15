@@ -1,0 +1,2 @@
+int a; int foo() {return 2;} 
+        void main() {a = foo(); putInt(2);}

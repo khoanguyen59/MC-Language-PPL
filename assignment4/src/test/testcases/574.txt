@@ -1,0 +1,7 @@
+void main() {
+        int a[5];
+        int b[5];
+        a[4] = 75;
+        b = a;
+        putInt(b[4]);
+        }

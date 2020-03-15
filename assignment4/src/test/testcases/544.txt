@@ -1,0 +1,5 @@
+void main() {
+        putInt(4); 
+        return; 
+        putInt(5);
+        }

@@ -1,0 +1,6 @@
+void main() {
+        string str; 
+        str = "Test case 41"; 
+        putString(str); 
+        return;
+        }

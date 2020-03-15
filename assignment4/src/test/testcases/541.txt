@@ -1,0 +1,8 @@
+int a; 
+        void main() {
+        int b; 
+        if (3<2) 
+            putInt(3); 
+        else 
+            putInt(2);
+        }

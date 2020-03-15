@@ -1,0 +1,12 @@
+
+        void main() {
+        int i; 
+        int j;
+        i = 0;
+        j = 0;
+        for (i; i < 3; i = i + 1){
+            j = 0;
+            for (j; j < i; j = j + 1)
+                putInt(j);
+        }
+        }

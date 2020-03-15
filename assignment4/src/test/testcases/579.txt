@@ -1,0 +1,8 @@
+
+        void main() {
+        int a[100];
+        int b[10];
+        b[9] = 80;
+        a[80] = 9;
+        putInt(a[b[9]]);
+        }

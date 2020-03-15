@@ -1,0 +1,2 @@
+int[] foo(int a[]) {int b[2]; int i; i = 0; for (i; i < 2; i + 1) b[i] = a[i] + 2; return b;} 
+        void main() {int c[2]; c[0] = 0; c[1] = 1; putInt(foo(c)[1]);}

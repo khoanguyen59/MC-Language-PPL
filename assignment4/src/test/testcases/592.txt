@@ -1,0 +1,10 @@
+
+        void main(){
+            int a, b, temp;
+            a = 4;
+            b = 6;
+            temp = a;
+            a = b;
+            b = temp;
+            putInt(b);
+        }

@@ -1,0 +1,4 @@
+void main() {
+        putBool(12.5000003 == 12.5); 
+        return;
+        }

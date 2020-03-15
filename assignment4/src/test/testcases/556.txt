@@ -1,0 +1,9 @@
+
+        void main() {
+        int i; 
+        i = 0; 
+        for (i; i < 4; i = i + 1){
+            putInt(i);
+            break;
+        }
+        }

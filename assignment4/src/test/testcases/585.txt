@@ -1,0 +1,10 @@
+
+        void main() {
+        boolean b, c, d;
+        b = true;
+        c = false;
+        d = false;
+        a = b || c || d ;
+        putBool(a);
+        }
+        boolean a;

@@ -1,0 +1,12 @@
+void main() {
+        int i;
+        i = 0;
+        do{
+            i = i + 1;
+            putInt(3);
+            if (i > 4)
+                break;
+        }
+        while 
+            2 < 3;
+        }

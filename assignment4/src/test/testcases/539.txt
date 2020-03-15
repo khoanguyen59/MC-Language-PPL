@@ -1,0 +1,6 @@
+void main() {
+        boolean isTrue; 
+        isTrue = false; 
+        putBool(isTrue); 
+        return;
+        }

@@ -1,0 +1,8 @@
+
+        int foo(int a, float b, string c){
+            putString(c);
+            return a + b;
+        }
+        void main() {
+        putInt(foo(1, 1.5, "Tong: "));
+        }

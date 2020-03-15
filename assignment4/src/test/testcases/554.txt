@@ -1,0 +1,7 @@
+void main() {
+        do 
+            putInt(3);
+            break;
+        while 
+            3<2;
+        }

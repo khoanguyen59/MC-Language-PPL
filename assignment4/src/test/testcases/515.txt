@@ -1,0 +1,4 @@
+void main() {
+        putFloatLn(100 - 1256.e-2); 
+        return;
+        }
